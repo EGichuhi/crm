@@ -79,17 +79,7 @@ bench start
 - Verify Python and Node.js compatibility
 - Consult GitHub issues for known problems
 
-## Contact
-For issues or questions:
-- Open a GitHub issue
-- Contact the repository owner
-
-## License
-[Add License Information Here]
-
 ## Acknowledgments
 - Frappe Framework
 - Original Project Contributors
 ```
-
-Would you like me to modify anything about the README?
